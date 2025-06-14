@@ -2,4 +2,4 @@
 A game made in GameMaker
 
 **Status**
-Devlopment
+In devlopment....
