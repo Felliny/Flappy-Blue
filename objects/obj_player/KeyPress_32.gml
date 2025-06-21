@@ -1,8 +1,14 @@
 // voa para cima
-vspeed += -5
+
+
+
+if (global.bateu) exit;
 
 
 if (image_index == 0) {
+	
+	vspeed += -7
+	
 	// rodar animação
 	image_speed = 1
 
