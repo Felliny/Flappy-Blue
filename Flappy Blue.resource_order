@@ -31,6 +31,8 @@
     {"name":"obj_coruja","order":2,"path":"objects/obj_coruja/obj_coruja.yy",},
     {"name":"obj_level","order":3,"path":"objects/obj_level/obj_level.yy",},
     {"name":"rm_inicio","order":1,"path":"rooms/rm_inicio/rm_inicio.yy",},
+    {"name":"sq_transicao1","order":1,"path":"sequences/sq_transicao1/sq_transicao1.yy",},
+    {"name":"sq_transicao2","order":2,"path":"sequences/sq_transicao2/sq_transicao2.yy",},
     {"name":"spr_agua_reflexo","order":5,"path":"sprites/spr_agua_reflexo/spr_agua_reflexo.yy",},
     {"name":"spr_agua","order":3,"path":"sprites/spr_agua/spr_agua.yy",},
     {"name":"spr_arvore_reflexo","order":4,"path":"sprites/spr_arvore_reflexo/spr_arvore_reflexo.yy",},

@@ -54,6 +54,8 @@
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"globais","path":"scripts/globais/globais.yy",},},
     {"id":{"name":"sq_inicio","path":"sequences/sq_inicio/sq_inicio.yy",},},
+    {"id":{"name":"sq_transicao1","path":"sequences/sq_transicao1/sq_transicao1.yy",},},
+    {"id":{"name":"sq_transicao2","path":"sequences/sq_transicao2/sq_transicao2.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_agua_reflexo","path":"sprites/spr_agua_reflexo/spr_agua_reflexo.yy",},},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},},
