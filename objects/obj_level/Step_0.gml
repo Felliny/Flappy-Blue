@@ -1,7 +1,7 @@
 
 
 if (global.bateu == false) {
-	global.pontos += 0.9
+	global.pontos += 0.1
 	
 	
 	if (global.level < 9) {
