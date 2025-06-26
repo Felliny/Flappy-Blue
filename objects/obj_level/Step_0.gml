@@ -18,6 +18,8 @@ if (global.bateu == false) {
 			if (global.level == 4) {
 				alarm[2] = 60
 			}
+			
+			audio_play_sound(snd_level_up, 0, 0)
 		}
 	}
 	

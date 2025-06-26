@@ -2,6 +2,8 @@
 
 randomize()
 
+//show_debug_overlay(true)
+
 #region variaveis globais
 
 global.bateu = false
@@ -18,8 +20,15 @@ global.destino = rm_inicio
 
 global.transicao = false
 
+global.sprite_player = spr_player
+
+global.efeitos_ativos = true
+
 // pontos para os levels
 global.lista_pontos = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000]
+
+// lista para os itens na loja
+global.itens_bloqueados = [false, true, true]
 
 
 #endregion
@@ -56,6 +65,13 @@ function muda_room() {
 
 function finaliza_transicao() {
 	global.transicao = false
+}
+
+function efeitos() {
+	layer_enable_fx("Folhas", global.efeitos_ativos)
+	layer_enable_fx("passaros", global.efeitos_ativos)
+	layer_enable_fx("coletavel", global.efeitos_ativos)
+	layer_enable_fx("Efeitos", global.efeitos_ativos)
 }
 
 #endregion

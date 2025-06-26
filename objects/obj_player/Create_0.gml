@@ -1,3 +1,6 @@
+
+sprite_index = global.sprite_player
+
 image_speed = 0 // tira a animação automatica
 
 // caindo
