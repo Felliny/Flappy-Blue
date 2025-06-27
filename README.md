@@ -1,5 +1,4 @@
 # Flappy Blue
 A game made in GameMaker
 
-**Status**
-in devlopment....
+link itch.io: https://feliny.itch.io/flappy-passaros
